@@ -1,0 +1,2 @@
+Chacon, S. and Straub, B. Pro Gi. Aspress.
+Loglier, J. and McCullough, M. Version control with Git. O'ReillyHodson, R. Ry's Git Tutorial. Smashwords (2014)
